@@ -1,5 +1,6 @@
 # python
-.. code:: python
+
+```python
 
         POSTS = (
 	("posts/*.rst", "blog", "post.tmpl"),
