@@ -1,6 +1,6 @@
 # python
 
-```python
+```bash
 
         POSTS = (
 	("posts/*.rst", "blog", "post.tmpl"),
